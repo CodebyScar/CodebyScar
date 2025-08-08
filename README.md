@@ -1,5 +1,6 @@
 <h1>Olá! Sou o Jonathan Gomes</h1>
 <h3>Desenvolvedor Full Stack</h3>
+<h6>HTML5, CSS3, Bootstrap, C#, JavaScript, PHP, Node.js, Python, Java.</h6>
 
 <br>
 
