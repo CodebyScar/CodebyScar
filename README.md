@@ -54,13 +54,15 @@
       <td>
         <img src="https://cdn.discordapp.com/attachments/1083467239338021016/1403212429030326392/Design_sem_nome.gif?ex=6896bae9&is=68956969&hm=73c20f544f26eaf77b5e03345a7dfcfd1ddc4db7e0bbbaf97fa3297095a6722b&" width="200"/>
       </td>
-            <td>
-        <a href="https://github.com/CodebyScar">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyScar&layout=compact&langs_count=16&theme=material-palenight"/>
-        </a>
-      </td>
     </tr>
   </table>
+
+<div align="center">   
+  <a href="https://github.com/CodebyScar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyScar&layout=compact&langs_count=16&theme=material-palenight"/>
+  </a>
+</div>
+
 
 <br>
 
